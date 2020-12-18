@@ -5,7 +5,7 @@ Mehdi EL HAYLALI's data science portfolio
 # Classification of movie reviews using artificial neural networks
 Classifying movie reviews as positive or negative, based on the text content of the reviews.
 
-# [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/705796)
+# [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
 ![A driver's Home location detection](images/Rplot.png)
 # Data streaming from twitter API
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
