@@ -18,7 +18,7 @@ Classifying movie reviews as positive or negative, based on the text content of 
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
 
 # On-Time Delivery Dashboard  
-![](images/dashboardTab1fl.png)
-![](images/dashboard_tab2fll.png)
+![](images/dashboardTab1fl.PNG)
+![](images/dashboard_tab2fll.PNG)
 ![](images/dashTab3.png)
 
