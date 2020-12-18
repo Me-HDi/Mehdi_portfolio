@@ -19,6 +19,6 @@ Extracting, processing and real-time visualization of data related to a hashtag 
 
 # On-Time Delivery Dashboard  
 ![](images/dashboardTab1fl.PNG)
-![](images/dashboard_tab2fll.PNG)
-![](images/dashTab3.png)
+![](images/dashboard_tab2fll.png)
+![](images/dashTab3.PNG)
 
