@@ -1,7 +1,7 @@
 # Mehdi_portfolio
 Mehdi EL HAYLALI's data science portfolio
 # Citrus Trees Detection on satellite images
-![Citrus Trees Detection](https://github.com/Me-HDi/Mehdi_portfolio/blob/main/images/Yimage2.jpg)
+![](https://github.com/Me-HDi/Mehdi_portfolio/blob/main/images/Yimage2.jpg)
 # Classification of movie reviews using artificial neural networks
 Classifying movie reviews as positive or negative, based on the text content of the reviews.
 
