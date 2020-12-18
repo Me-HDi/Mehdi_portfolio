@@ -6,7 +6,7 @@ Mehdi EL HAYLALI's data science portfolio
 Classifying movie reviews as positive or negative, based on the text content of the reviews.
 
 # Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.
-![A driver's Home location detection](images/Rpage.html)
+![A driver's Home location detection](images/Rplot.png)
 # Data streaming from twitter API
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
 
