@@ -2,12 +2,12 @@
 Mehdi EL HAYLALI's data science portfolio
 
 # Citrus Trees Detection on satellite images
-![Citrus Trees Detection by Convolutional Neural Network](images/Yimage2.jpg)  
+</kbd>![Citrus Trees Detection by Convolutional Neural Network](images/Yimage2.jpg)</kbd>   
 
 **Tools & Techniques** : Yolo, GPU, Satellite images from Google Earth, OpenCV for image processing.
 
 # [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
-![A driver's Home location detection](images/HomeLocationDetection_map.png)   
+</kbd>![A driver's Home location detection](images/HomeLocationDetection_map.png)</kbd>    
 
 **Tools & Techniques** : R (leaflet, sf, st), Spatial data processing techniques, GPS data. 
 
@@ -16,15 +16,13 @@ As an intern at a manufacturing company, I created this interactive dashboard fo
 The visualized variables : actual production lead-time, lead-time requested by customers, delay from due delivery date, delay from requested delivery date. 
 
 ### Tab 1 : viewing lead-time and delay by product categories
-<kbd>![](images/dashboardTab1fl.PNG)</kbd>
-
-<kbd><img src="images/dashboardTab1fl.PNG" /></kbd>
+<kbd>![](images/dashboardTab1fl.PNG)</kbd> 
 
 ### Tab 2 : viewing lead-time and delay by customers
-![](images/dashboard_tab2fll.png)
+</kbd>![](images/dashboard_tab2fll.png)</kbd> 
 
 ### Tab 3 : viewing lead-time and delay for the months of current year
-![](images/dashTab3.PNG)
+</kbd>![](images/dashTab3.PNG)</kbd> 
 
 # Data streaming from twitter API
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
