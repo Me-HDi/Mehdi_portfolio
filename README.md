@@ -21,7 +21,7 @@ The visualized variables : actual production lead-time, lead-time requested by c
 ### Tab 2 : viewing lead-time and delay by customers
 ![](images/dashboard_tab2fll.png)
 
-### Tab 1 : viewing lead-time and delay for the months of current year
+### Tab 3 : viewing lead-time and delay for the months of current year
 ![](images/dashTab3.PNG)
 
 # Data streaming from twitter API
