@@ -7,7 +7,9 @@ Mehdi EL HAYLALI's data science portfolio
 **Tools & Techniques** : Yolo, GPU, Satellite images from Google Earth, OpenCV for image processing.
 
 # [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
-<kbd>![A driver's Home location detection](images/HomeLocationDetection_map.png)</kbd>    
+<kbd>
+  ![A driver's Home location detection](images/HomeLocationDetection_map.png)
+</kbd>    
 
 **Tools & Techniques** : R (leaflet, sf, st), Spatial data processing techniques, GPS data. 
 
