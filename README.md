@@ -17,8 +17,8 @@ The visualized variables : actual production lead-time, lead-time requested by c
 
 ### Tab 1 : viewing lead-time and delay by product categories
 ![]()
-<img src="images/dashboardTab1fl.PNG" alt="Kitten"
-	title="A cute kitten" width="150" height="100" />
+<img src="images/dashboardTab1fl.PNG" alt="tab1"
+	title="Tab1" border: 1px solid blue />
 ### Tab 2 : viewing lead-time and delay by customers
 ![](images/dashboard_tab2fll.png)
 
