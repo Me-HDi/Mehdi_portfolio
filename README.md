@@ -16,9 +16,8 @@ As an intern at a manufacturing company, I created this interactive dashboard fo
 The visualized variables : actual production lead-time, lead-time requested by customers, delay from due delivery date, delay from requested delivery date. 
 
 ### Tab 1 : viewing lead-time and delay by product categories
-![]()
-<img src="images/dashboardTab1fl.PNG" alt="tab1"
-	title="Tab1" border: 1px solid blue />
+![](images/dashboardTab1fl.PNG){:.thumbnail.bordered}
+
 ### Tab 2 : viewing lead-time and delay by customers
 ![](images/dashboard_tab2fll.png)
 
