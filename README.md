@@ -24,6 +24,7 @@ The visualized variables : actual production lead-time, lead-time requested by c
 ### Tab 3 : viewing lead-time and delay for the months of current year
 <kbd>![](images/dashTab3.PNG)</kbd> 
 
+**Tools & Techniques** : Python, Pandas, Bokeh, Holoviews, Panel.
 # Data streaming from twitter API
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
 
