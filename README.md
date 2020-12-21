@@ -3,9 +3,10 @@ Mehdi EL HAYLALI's data science portfolio
 
 # Citrus Trees Detection on Satellite Images  
 As an R&D intern at the "Moroccan Foundation for Advanced Science, Innovation and Research", I worked on Citrus Trees Detection on Satellite Images. I started by conducting scientific literature review on the subject, then I selected one of the state-of-the-art techniques I read about in the review in order to test it. The approach was promissing and resulted in writting a [scientific paper](/images/article_ElHaylali.pdf).
+
 <kbd><img src="images/Yimage2.jpg" /></kbd>
 
-**Tools & Techniques** : Yolo, GPU, Satellite images from Google Earth, OpenCV for image processing.
+**Tools & Techniques** : Convolutional Neural Network (CNN), Yolo, GPU, Satellite images from Google Earth, Python's OpenCV for image processing.
 
 # [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
 <kbd><img src="images/HomeLocationDetection_map.png" /></kbd>
