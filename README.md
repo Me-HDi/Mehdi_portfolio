@@ -1,5 +1,5 @@
-# Mehdi_portfolio
-Mehdi EL HAYLALI's data science portfolio
+# Data Science Portfolio - Mr. Mehdi EL HAYLALI
+This page presents the main projects I worked on until now.
 
 # Citrus Trees Detection on Satellite Images  
 As an R&D intern at the "Moroccan Foundation for Advanced Science, Innovation and Research", I worked on Citrus Trees Detection on Satellite Images. I started by conducting scientific literature review on the subject, then I selected one of the state-of-the-art techniques I read about in the review in order to test it. The approach was promissing and resulted in writting a [scientific paper](/images/article_ElHaylali.pdf).
