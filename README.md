@@ -8,7 +8,7 @@ As an R&D intern at the "Moroccan Foundation for Advanced Science, Innovation an
 
 **Tools & Techniques** : Convolutional Neural Network (CNN), Yolo, GPU, Satellite images from Google Earth, Python's OpenCV for image processing.
 
-# [Detecting home location of Heetch app's drivers using spatial data analysis techniques with R.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
+# [Detecting Home Location of Heetch App's Drivers based on their Digital Footprint.](http://rpubs.com/MHD/HomeLocationDetection_Rproject)
 <kbd><img src="images/HomeLocationDetection_map.png" /></kbd>
 
 **Tools & Techniques** : R (leaflet, sf, st), Spatial data processing techniques, GPS data. 
@@ -27,8 +27,13 @@ The visualized variables : actual production lead-time, lead-time requested by c
 <kbd><img src="images/dashTab3.PNG" /></kbd> 
 
 **Tools & Techniques** : Python, Pandas, Bokeh, Holoviews, Panel.
+
 # Data streaming from twitter API
 Extracting, processing and real-time visualization of data related to a hashtag along with performing NLP techniques using SpaCy.
 
+**Tools & Techniques** : Python, Pandas, NLP with SpaCy, Twitter API, ETL paradigm.
+
 # Classification of movie reviews using artificial neural networks
 Classifying movie reviews as positive or negative, based on the text content of the reviews.
+
+**Tools & Techniques**: Python, Keras.
